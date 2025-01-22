@@ -4,6 +4,14 @@ This is a Python implementation of the COMP128 algorithms used in the GSM A3/A8 
 
 ## Usage example
 
+Install the library first by running:
+
+```bash
+pip install comp128
+```
+
+Then you can use the library like this:
+
 ```python
 from comp128.comp128v23 import Comp128v23
 from comp128.comp128v1 import Comp128v1
