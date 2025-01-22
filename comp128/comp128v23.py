@@ -11,7 +11,7 @@
 
     Original Authors:
     (C) 2010 by Harald Welte <laforge@gnumonks.org>
-    (C) 2013 by Kévin Redon <kevredon@mail.tsaitgaist.info
+    (C) 2013 by Kévin Redon <kevredon@mail.tsaitgaist.info>
 
     SPDX-License-Identifier: GPL-2.0+
 
